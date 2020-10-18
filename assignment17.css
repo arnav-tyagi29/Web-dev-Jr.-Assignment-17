@@ -1,0 +1,102 @@
+body{
+    background-color: deepskyblue;
+    margin:0px;
+    padding: 0px;
+}
+.unicorn{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoZjoEMwMFJY8InJp4UGupXKuAaTb7lkaC-A&usqp=CAU);
+    background-repeat: round;
+}
+.unicorn{
+    width:60%;
+    border-style: solid;
+    border-color: black;
+    background-color: darksalmon;
+    border-width: 14px;
+    font-size: 20px;
+    font-weight: 300;
+    padding:250px;
+   
+    
+    
+}
+h2{
+    border-style: groove;
+    border-color: black;
+    background-color: forestgreen;
+    border-width: thick;
+    font-size: 50px;
+    font-weight: 900;
+    padding:10px;
+    position:sticky;
+    top:0px;
+    
+}
+p{
+    border-style: solid;
+    border-color: black;
+    background-color: darkorange;
+    border-width: thin;
+    font-size: 20px;
+    font-weight: 300;
+}
+h3{
+    border-style:inset;
+    border-color: black;
+    background-color: darkviolet;
+    border-width: thick;
+    font-size: 40px;
+    font-weight: 700; 
+}
+.p1{
+    border-style: solid;
+    border-color: black;
+    background-color: darksalmon;
+    border-width: thick;
+    font-size: 20px;
+    font-weight: 300;
+}
+.div1{
+    background-color: darkslateblue;
+}
+.div2{
+    background-color: rgb(29, 65, 9);
+}
+.div3{
+    background-color: deeppink;
+    border-style: double;
+    border-width: thick;
+    padding:20px;
+}
+h1{
+  
+    margin-top: 0px;
+    border-style:double;
+    border-color:darkred;
+    background-color: rgb(216, 12, 243);
+    border-width: 15px;
+    font-size: 60px;
+    font-weight: 900; 
+    padding:20px;
+    position:sticky;
+    top:0px;
+    bottom:20px;
+    z-index: 1;
+}
+.img1{
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+}
+.img2{
+    position: fixed;
+    bottom: 15px;
+    right:150px
+}
+.name{
+    position: relative;
+    top:10px;
+    font-size: 100px;
+    font-family: cursive;
+    font-weight: 900;
+}
